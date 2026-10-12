@@ -338,9 +338,3 @@ database/migrations/             # users, deadlines, personal_access_tokens
 ```
 
 ---
-
-<div align="center">
-
-Built with Laravel + Sanctum · Pairs with the React frontend `deadline-guardian-frontend`
-
-</div>
